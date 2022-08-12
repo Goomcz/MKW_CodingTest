@@ -9,3 +9,5 @@ console.log(new_idArrayStep1_1);
 let new_idArrayStep1_2 = new_idArrayStep1_1.split('');
 console.log(new_idArrayStep1_2);
 
+let new_idArray_test = [];
+console.log(new_idArray_test.length);
